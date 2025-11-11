@@ -1,0 +1,133 @@
+leader,party,positive_weight,negative_weight,edge_count,positive_count,negative_count,neutral_count
+tejashwiyadav,Rashtriya Janata Dal,58.519974552094936,200.20474218577147,391,91,291,9
+cmnitishkumar,Janata Dal (United),49.13819911330938,186.1683515250683,361,75,273,13
+nitishkumar,Janata Dal (United),49.13819911330938,182.81389840841294,356,75,268,13
+rahulgandhi,Indian National Congress,29.470920987427235,129.2841948404908,238,45,185,8
+yadav,Congress,31.462229155004025,96.16587628871203,195,48,137,10
+modi,Bharatiya Janata Party,32.31017117202282,62.53162087798118,144,49,90,5
+nitish,Janata Dal (United),28.997212782502174,52.74749230891466,128,44,77,7
+tejashwi_yadav,Rashtriya Janata Dal,21.610343523323536,53.81885978132486,114,33,77,4
+narendramodi,Bharatiya Janata Party,22.39870873838663,39.50576631128788,93,34,57,2
+npmnarendramodi,Bharatiya Janata Party,22.39870873838663,39.50576631128788,93,34,57,2
+amitshah,Bharatiya Janata Party,15.945656344294548,44.37647562623024,92,25,66,1
+rahul_gandhi,Indian National Congress,11.017415270209312,46.581899262964725,82,17,65,0
+tejpratapyadav,Jan Shakti Janata Dal,3.8198626041412354,24.775329880416393,42,6,36,0
+pawansingh,Bharatiya Janata Party,5.03389398008585,19.12650235146284,39,8,28,3
+laluyadav,Rashtriya Janata Dal,4.475044064223766,19.769195899367332,36,7,29,0
+khesarilalyadav,Rashtriya Janata Dal,2.552810028195381,11.353115655481815,23,4,17,2
+pappuyadav,Congress,2.5816983580589294,10.95792356133461,20,4,16,0
+narendra_modi,Bharatiya Janata Party,3.2787618339061737,7.840563946962357,18,5,11,2
+laluprasadyadav,Rashtriya Janata Dal,1.9808540865778923,9.46140119433403,17,3,14,0
+jyotisingh,Unknown,2.532536059617996,6.0704728499054905,15,4,9,2
+pawan_singh,Bharatiya Janata Party,1.8823083117604256,5.354227401316166,12,3,8,1
+rajnathsingh,Bharatiya Janata Party,2.531444787979126,4.905636943876743,11,4,7,0
+anantsingh,Independent,1.2485077381134033,6.00793744623661,11,2,9,0
+mohanyadav,Unknown,0.0,5.9885793551802635,9,0,9,0
+girirajsingh,Bharatiya Janata Party,0.6608023643493652,5.84806726872921,9,1,8,0
+tejaswiyadav,Rashtriya Janata Dal,0.0,6.040932431817055,9,0,9,0
+priyankagandhi,Indian National Congress,2.628211162984371,3.3753923773765564,9,4,5,0
+shahpurrally,Unknown,0.0,5.9885793551802635,9,0,9,0
+shahabuddin,Rashtriya Janata Dal,3.2672226652503014,2.146957039833069,8,5,3,0
+akhileshyadav,Samajwadi Party,0.0,3.9206622019410133,6,0,6,0
+ravikishan,Unknown,0.0,2.5805997624993324,4,0,4,0
+rksingh,Unknown,0.0,2.745085708796978,4,0,4,0
+surajbhansingh,Unknown,0.6540551781654358,1.8790182024240494,4,1,3,0
+tejashviyadav,Rashtriya Janata Dal,0.0,2.057135581970215,3,0,3,0
+sanjayyadav,Unknown,0.0,2.0809815526008606,3,0,3,0
+seemasingh,Unknown,0.0,2.123620167374611,3,0,3,0
+justice4sushantsinghrajput,Unknown,0.0,2.1148027926683426,3,0,3,0
+rahulgandhivoiceofindia,Indian National Congress,0.615685760974884,0.6149690598249435,2,1,1,0
+narendramodiji,Bharatiya Janata Party,0.0,1.5594934225082397,2,0,2,0
+ramkripalyadav,Unknown,0.0,1.2745442688465118,2,0,2,0
+aksharasingh,Unknown,0.0,0.7380290806293488,2,0,1,1
+madanshah,Unknown,0.0,1.501233696937561,2,0,2,0
+tejasviyadav,Rashtriya Janata Dal,0.0,1.3095562607049942,2,0,2,0
+brijbhushan_sharan_singh,Bharatiya Janata Party,1.347967267036438,0.0,2,2,0,0
+osamashahab,Rashtriya Janata Dal,0.0,0.10327466130256654,2,0,0,2
+rahulgandhinews,Indian National Congress,0.0,1.3875780552625656,2,0,2,0
+nandkishoreyadav,Unknown,0.0,1.3101869225502014,2,0,2,0
+tejaswiprasadyadav,Rashtriya Janata Dal,0.0,1.2795639485120773,2,0,2,0
+nitishkumarcmbihar,Janata Dal (United),0.0,1.4547643214464188,2,0,2,0
+lalansingh,Rashtriya Janata Dal,0.612251490354538,0.6725409030914307,2,1,1,0
+amitshahonaajtak,Bharatiya Janata Party,0.0,1.3699146956205368,2,0,2,0
+dharmendrasingh,Unknown,0.0,0.6631822288036346,1,0,1,0
+khesari_yadav,Rashtriya Janata Dal,0.6307531446218491,0.0,1,1,0,0
+nautankimodi,Bharatiya Janata Party,0.0,0.6495611518621445,1,0,1,0
+narendarmodi,Bharatiya Janata Party,0.0,0.7318762391805649,1,0,1,0
+abhishekmanusinghvi,Indian National Congress,0.0,0.7711606323719025,1,0,1,0
+modineglectsbihar,Rashtriya Janata Dal,0.0,0.6233930215239525,1,0,1,0
+modi2025,Bharatiya Janata Party,0.0,0.6760906428098679,1,0,1,0
+pappuyadavdeaththreat,Jan Adhikar Party,0.0,0.7141948342323303,1,0,1,0
+nitishsarkar,Janata Dal (United),0.0,0.649628534913063,1,0,1,0
+tejashwaiyadav,Rashtriya Janata Dal,0.6508771181106567,0.0,1,1,0,0
+tejpratapyadavnews,Jan Shakti Janata Dal,0.0,0.7008135318756104,1,0,1,0
+laluyadavfamilycontroversy,Rashtriya Janata Dal,0.0,0.7403448224067688,1,0,1,0
+chaudharycharansingh,Unknown,0.6370242238044739,0.0,1,1,0,0
+sanjaysingh,JD(U),0.0,0.6551167964935303,1,0,1,0
+modiinmuzaffarpur,Bharatiya Janata Party,0.0,0.673700824379921,1,0,1,0
+mtejashwiyadav,Rashtriya Janata Dal,0.0,0.6604356616735458,1,0,1,0
+jyotisinghincome,Unknown,0.0,0.621003732085228,1,0,1,0
+amitshahtonews18,Bharatiya Janata Party,0.6278821229934692,0.0,1,1,0,0
+amitshahspeech,Bharatiya Janata Party,0.0,0.6259897500276566,1,0,1,0
+amitshahinbihar,Bharatiya Janata Party,0.6116738617420197,0.0,1,1,0,0
+tejashvi_yadav,Rashtriya Janata Dal,0.6557673215866089,0.0,1,1,0,0
+rahulgandhispeech,Indian National Congress,0.0,0.7013350874185562,1,0,1,0
+rambabusingh,Unknown,0.0,0.6337922662496567,1,0,1,0
+rjdcandidaterajnishyadav,Rashtriya Janata Dal,0.0,0.7413267344236374,1,0,1,0
+shivrajsinghchouhan,Bharatiya Janata Party,0.6145823895931244,0.0,1,1,0,0
+mohammadshahabuddin,Rashtriya Janata Dal,0.0,0.6756626963615417,1,0,1,0
+nitishspeech,Janata Dal (United),0.0,0.6656206548213959,1,0,1,0
+ravishankarprasad,Rashtriya Janata Dal,0.6248641908168793,0.0,1,1,0,0
+nitishkumarviral,Janata Dal (United),0.0,0.6656206548213959,1,0,1,0
+rahulgandhistatement,Indian National Congress,0.0,0.6862429678440094,1,0,1,0
+nitishkumarrally,Janata Dal (United),0.0,0.6656206548213959,1,0,1,0
+raghwendrapratapsingh,Unknown,0.0,0.05404615998268128,1,0,0,1
+tejashwiprasadyadav,Rashtriya Janata Dal,0.0,0.7147540003061295,1,0,1,0
+lesisingh,Unknown,0.0,0.6337604373693466,1,0,1,0
+modiyogi,Bharatiya Janata Party,0.0,0.7749745845794678,1,0,1,0
+akhtarulislamshaheen,Unknown,0.0,0.6387253552675247,1,0,1,0
+nitishexposed,Janata Dal (United),0.0,0.6233930215239525,1,0,1,0
+deepakkumaryadav,Unknown,0.6464150995016098,0.0,1,1,0,0
+bijendrayadav,Unknown,0.0,0.6829729825258255,1,0,1,0
+aapleadersanjaysingh,JD(U),0.0,0.69027940928936,1,0,1,0
+modirally,Bharatiya Janata Party,0.0,0.673700824379921,1,0,1,0
+bogosingh,Unknown,0.0,0.7247462272644043,1,0,1,0
+singham,Unknown,0.0,0.6420523077249527,1,0,1,0
+sarojyadav,Rashtriya Janata Dal,0.0,0.05404615998268128,1,0,0,1
+satishkumaryadav,Unknown,0.0,0.6940160095691681,1,0,1,0
+rajnathsinghbiharvisit,Bharatiya Janata Party,0.0,0.6831054836511612,1,0,1,0
+rahulgandhinewslivetoday,Indian National Congress,0.0,0.6597920954227448,1,0,1,0
+nitishstatement,Janata Dal (United),0.0,0.6656206548213959,1,0,1,0
+rahulgandhiremark,Indian National Congress,0.0,0.6785591840744019,1,0,1,0
+bheemkumaryadav,Unknown,0.0,0.05454826951026919,1,0,0,1
+shivrajsingh,Bharatiya Janata Party,0.0,0.6264953911304474,1,0,1,0
+npmmodirally,Bharatiya Janata Party,0.0,0.673700824379921,1,0,1,0
+mantansingh,Rashtriya Janata Dal,0.0,0.6904967725276947,1,0,1,0
+modiji,Bharatiya Janata Party,0.6225971803069115,0.0,1,1,0,0
+ritlalyadav,Unknown,0.0,0.7289868742227554,1,0,1,0
+gandhijayanti,Unknown,0.0,0.7832575738430023,1,0,1,0
+nandkishoryadav,Unknown,0.0,0.7213822901248932,1,0,1,0
+omprakashyadav,Unknown,0.0,0.05450161993503573,1,0,0,1
+tejashwiyadavcmcandidature,Rashtriya Janata Dal,0.0,0.6696255505084991,1,0,1,0
+jagdanandsingh,Unknown,0.0,0.6636948138475418,1,0,1,0
+npmmodiji,Bharatiya Janata Party,0.6225971803069115,0.0,1,1,0,0
+phatebahadursingh,Unknown,0.0,0.7225193381309509,1,0,1,0
+yogendrayadav,Unknown,0.0,0.7474395334720612,1,0,1,0
+amitshahonnews18,Bharatiya Janata Party,0.0,0.680511549115181,1,0,1,0
+sunitasinghchauhan,Unknown,0.64307801425457,0.0,1,1,0,0
+jyotisinghproperty,Unknown,0.0,0.621003732085228,1,0,1,0
+laluyadavlegacy,Rashtriya Janata Dal,0.0,0.7093734592199326,1,0,1,0
+ajaykumaryadav,Unknown,0.6214565709233284,0.0,1,1,0,0
+shahnawazalam,Unknown,0.0,0.6588487327098846,1,0,1,0
+sukhvindersinghsukhu,Aam Aadmi Party,0.0,0.6648982167243958,1,0,1,0
+deepakyadavpresident,Unknown,0.6464150995016098,0.0,1,1,0,0
+modijiinbihar,Bharatiya Janata Party,0.0,0.6356163918972015,1,0,1,0
+abhaysingh,Unknown,0.0,0.6228173971176147,1,0,1,0
+khesarilalyadavwife,Rashtriya Janata Dal,0.0,0.6387853473424911,1,0,1,0
+nitishkuamr,Janata Dal (United),0.0,0.6968749165534973,1,0,1,0
+tejashwiyadavnews,Rashtriya Janata Dal,0.0,0.6632107347249985,1,0,1,0
+madhepuravidhansabha,Unknown,0.0,0.6554779410362244,1,0,1,0
+2025phirsenitish,Janata Dal (United),0.0,0.6356163918972015,1,0,1,0
+dularchandyadav,Unknown,0.0,0.6682548075914383,1,0,1,0
+cmdrmohanyadav,Unknown,0.0,0.7166842669248581,1,0,1,0
+mishrilalyadav,Unknown,0.0,0.7581554353237152,1,0,1,0
